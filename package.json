@@ -1,0 +1,70 @@
+{
+    "name": "react-material-dashboard",
+    "homepage": "http://tsirhatsion.com",
+    "author": "DeviasIO",
+    "email": "contact@devias.io",
+    "licence": "MIT",
+    "version": "0.3.0",
+    "private": false,
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "dependencies": {
+        "@material-ui/core": "^4.2.1",
+        "@material-ui/icons": "^4.2.1",
+        "@material-ui/lab": "^4.0.0-alpha.55",
+        "@material-ui/styles": "^4.2.1",
+        "axios": "^0.19.2",
+        "bootstrap": "^4.4.1",
+        "chart.js": "^2.9.3",
+        "clsx": "^1.1.0",
+        "excel": "^1.0.1",
+        "font-awesome": "^4.7.0",
+        "history": "^4.10.1",
+        "jspdf": "^1.5.3",
+        "moment": "^2.26.0",
+        "node-sass": "^4.14.1",
+        "prop-types": "^15.7.2",
+        "react": "^16.8.6",
+        "react-chartjs-2": "^2.9.0",
+        "react-dom": "^16.8.6",
+        "react-html-table-to-excel": "^2.0.0",
+        "react-perfect-scrollbar": "^1.5.8",
+        "react-router-dom": "^5.0.1",
+        "react-scripts": "^3.0.1",
+        "recompose": "^0.30.0",
+        "redux-react-session": "^2.6.1",
+        "renderer": "^0.1.5",
+        "underscore": "^1.10.2",
+        "use-state-with-callback": "^1.0.18",
+        "uuid": "^3.4.0",
+        "validate.js": "^0.13.1",
+        "xlsx": "^0.16.4"
+    },
+    "devDependencies": {
+        "eslint-plugin-prettier": "^3.0.1",
+        "eslint-plugin-react": "^7.12.4",
+        "prettier": "^1.17.1",
+        "prettier-eslint": "^8.8.2",
+        "prettier-eslint-cli": "^4.7.1",
+        "typescript": "^3.5.1"
+    }
+}
